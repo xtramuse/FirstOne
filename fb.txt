@@ -46,3 +46,4 @@
 ||pixel.facebook.com^
 @@||zynga.com/current/iframe/track.php?$domain=apps.facebook.com
 /FacebookTracking.
+||addthis.com^

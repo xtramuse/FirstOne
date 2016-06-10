@@ -26,6 +26,7 @@
 ||facebook.com/widgets/like.php?$third-party
 ||facebook.com/widgets/recommendations.php?$third-party
 ||facebook.com^
+||www.facebook.com^
 ||facebook.net^
 ||atdmt.com^
 ||fbcdn.net^
